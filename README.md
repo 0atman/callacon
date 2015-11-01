@@ -5,4 +5,4 @@ Code for the upcoming callacon-esqe timetable!
 Get docker-compose working on your machine
 
 ##
-`$docker-compose up`
+`$ docker-compose up`
